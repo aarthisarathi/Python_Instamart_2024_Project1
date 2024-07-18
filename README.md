@@ -1,4 +1,4 @@
-#Python_Instamart_CF_2024
+# Python_CF_2024
 
 
 Project Name: Grocery Basket Analysis
